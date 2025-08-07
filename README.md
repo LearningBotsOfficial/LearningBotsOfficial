@@ -77,6 +77,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Learningbots79/Learningbots79/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github.com/Learningbots79/Learningbots79/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 
 
