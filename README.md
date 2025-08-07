@@ -77,6 +77,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sparrow9616/sparrow9616/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Learningbots79/Learningbots79/output/snake.svg" alt="Snake animation" />
 
 
