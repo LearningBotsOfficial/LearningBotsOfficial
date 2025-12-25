@@ -58,17 +58,16 @@
 <img src="https://media.giphy.com/media/Ib8hIgpOHBxBUSD0t5/giphy.gif" width="200" />
 </td>
 <td style="padding-left: 20px; vertical-align: middle;">
-<p align="left">
-<b style="font-size:28px;">Learning Bots</b><br>
-<span style="font-size:16px;">Telegram Bot Developer • Python • Automation</span>
-</p>
 <p>
+<!-- First row -->
 <a href="https://t.me/learningbots79">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://t.me/LearningBotsCommunity">
 <img src="https://img.shields.io/badge/Community-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+<br>
+<!-- Second row -->
 <a href="https://t.me/NomadeHelpBot">
 <img src="https://img.shields.io/badge/HelpBot-FF69B4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
