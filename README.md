@@ -51,17 +51,32 @@
 </div>
 
 ---
+<div align="center">
+  <table>
+    <tr>
+      <!-- GIF / Avatar -->
+      <td>
+        <img src="https://media.giphy.com/media/Ib8hIgpOHBxBUSD0t5/giphy.gif" width="200" />
+      </td>
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://t.me/learningbots79">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://youtube.com/@LearningBots">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="https://github.com/LearningBotsOfficial">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+      <!-- Info & Social Links -->
+      <td style="padding-left: 20px; vertical-align: middle;">
+        <h1>Learning Bots</h1>
+        <h3>Telegram Bot Developer • Python • Automation</h3>
 
+        <!-- Social badges -->
+        <p>
+          <a href="https://t.me/learningbots79">
+            <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+          </a>
+          <a href="https://youtube.com/@LearningBots">
+            <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+          </a>
+          <a href="https://github.com/LearningBotsOfficial">
+            <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
