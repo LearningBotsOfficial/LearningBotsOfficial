@@ -52,25 +52,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <!-- Total PRs -->
-  <img src="https://img.shields.io/badge/PRs-✔️%20Merged-blue?style=for-the-badge&logo=github" />
-  <!-- Total Stars -->
-  <img src="https://img.shields.io/github/stars/LearningBotsOfficial?style=for-the-badge&logo=github&label=Stars" />
-  <!-- Total Forks -->
-  <img src="https://img.shields.io/github/forks/LearningBotsOfficial?style=for-the-badge&logo=github&label=Forks" />
-  <!-- Total Repos -->
-  <img src="https://img.shields.io/github/repos/LearningBotsOfficial?style=for-the-badge&logo=github&label=Repos" />
-  <!-- Contributions -->
-  <img src="https://img.shields.io/github/commit-activity/y/LearningBotsOfficial?style=for-the-badge&logo=github&label=Commits" />
-</p>
-
-
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://t.me/learningbots79">
@@ -84,13 +65,3 @@
   </a>
 </p>
 
----
-
-## ☕ Support My Work
-<p align="center">
-  <a href="https://www.buymeacoffee.com/learningbots">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFD300?style=for-the-badge&logo=buymeacoffee&logoColor=black">
-  </a>
-</p>
-
----
