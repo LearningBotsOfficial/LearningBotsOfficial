@@ -15,7 +15,7 @@
 
   <div align="center">
   <!-- Github link -->
-    <a href="https://github.com/LearningBots79" target="_blank">
+    <a href="https://github.com/LearningBotsOfficial" target="_blank">
       <img src=https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
     <!-- Link -->
@@ -23,7 +23,7 @@
       <img src=https://img.shields.io/badge/Youtube-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
       <!-- Link -->
-    <a href="https://t.me/learningbots79" target="_blank">
+    <a href="https://t.me/learning_bots" target="_blank">
       <img src=https://img.shields.io/badge/telegram-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=telegram style="margin-bottom: 5px;" />
     </a>
   </div>
@@ -37,17 +37,17 @@
 <h1 align="center">GitHub Statistics</h1>
 <table>
 	<tr>
-		<td colspan = "2"><a><img src="https://github-readme-activity-graph.vercel.app/graph?username=learningbots79&bg_color=06040e&point=false&line=bd83b8&radius=8&area=true&area_color=473e66&title_color=ffffff&color=f1916d"></a></td>
+		<td colspan = "2"><a><img src="https://github-readme-activity-graph.vercel.app/graph?username=LearningBotsOfficial&bg_color=06040e&point=false&line=bd83b8&radius=8&area=true&area_color=473e66&title_color=ffffff&color=f1916d"></a></td>
 	</tr>
 	<tr>
 		<td><a><img src="https://github-readme-streak-stats-two-beige.vercel.app?user=Raghavalways&theme=javascript-dark&background=45%2C150536%2C520352&border=f1916d&stroke=f1916d&ring=bd83b8&sideLabels=f1916d&fire=f1916d&currStreakLabel=f1916d&dates=ffffff"></a></td>
-		<td><a><img src="http://profile-summary-card.vercel.app/api/cards/profile-details?username=learningbots79&theme=dracula"></a></td>
+		<td><a><img src="http://profile-summary-card.vercel.app/api/cards/profile-details?username=LearningBotsOfficial&theme=dracula"></a></td>
 	</tr>
 </table>
 <div align="center">
 	<table>
 	<tr>
-		<td><a><img src="https://github-readme-stats-rishilahotis-projects.vercel.app/api?username=learningbots79&include_all_commits=true&theme=dracula&show_icons=true&hide_border=false&count_private=true"></a></td>
+		<td><a><img src="https://github-readme-stats-rishilahotis-projects.vercel.app/api?username=LearningBotsOfficial&include_all_commits=true&theme=dracula&show_icons=true&hide_border=false&count_private=true"></a></td>
 	</tr>
 	</table>
 	</div>
@@ -60,7 +60,7 @@
 <!-- View count div -->
 <div align="center">
 <a>
-    <img src="https://komarev.com/ghpvc/?username=Learningbots79&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=LearningBotsOfficial&style=flat-square">
 </a>
 
 </div>
