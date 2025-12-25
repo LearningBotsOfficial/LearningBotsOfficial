@@ -1,79 +1,68 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="500"/>
+</p>
+
+<h1 align="center">👋 Hi, I'm Learning Bots</h1>
+<h3 align="center">Telegram Bot Developer | Python | Pyrogram | Automation</h3>
+
+---
+
+## 🚀 About Me
+- 🔥 Professional Telegram Bot Developer  
+- 🧠 Working with **Python, Pyrogram, Telethon**  
+- 🎬 Running YouTube channel: **Learning Bots**  
+- 💻 Creating automation tools, APIs, session generators & more  
+
+---
+
+## 🛠 Languages & Tools
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=python,git,github,cloudflare,mongodb,redis,fastapi,flask,vscode,linux" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
 <div align="center">
-<img alt="Coder GIF" height=300 width=300 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Vic3JwNnEzNGJzbWx1NHl0MjNlbWx4dTZwMmkyOGU1MWtudXU1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HvekzBaREHxlEwvlOS/giphy.gif" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=LearningBotsOfficial&show_icons=true&theme=dracula&include_all_commits=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LearningBotsOfficial&theme=dracula" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LearningBotsOfficial&theme=dracula&area=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<h1 align="center">Hey It's Yash</h1>
+---
 
-<div align="center">
+## 🏆 GitHub Achievements (Badges)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LearningBotsOfficial&theme=dracula&no-frame=true&row=1&column=7" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=27&duration=3000&&pause=50&color=f1916d&background=2A2E3425&center=true&vCenter=true&random=false&width=435&lines=Try+To+Be+Web+Developer;Python;Youtuber)](https://git.io/typing-svg)
-</div>
+---
 
-<!-- Connect with me div -->
-<div>
-  <h1 align="center">Connect with me</h1>
+## 📱 Connect With Me
+<p align="center">
+<a href="https://t.me/learningbots79"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://youtube.com/@LearningBots"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://github.com/LearningBotsOfficial"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-  <div align="center">
-  <!-- Github link -->
-    <a href="https://github.com/LearningBotsOfficial" target="_blank">
-      <img src=https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-    </a>
-    <!-- Link -->
-    <a href="https://www.youtube.com/@Learning_Bots" target="_blank">
-      <img src=https://img.shields.io/badge/Youtube-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-      <!-- Link -->
-    <a href="https://t.me/learning_bots" target="_blank">
-      <img src=https://img.shields.io/badge/telegram-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=telegram style="margin-bottom: 5px;" />
-    </a>
-  </div>
-</div>
+---
 
-<!-- ------------------------------------------------------------------------------------ -->
+## 🧰 Support My Work
+<p align="center">
+<a href="https://www.buymeacoffee.com/learningbots"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+</p>
 
- 
-<!-- ------------------------------------------------------------------------------------ -->
-
-<h1 align="center">GitHub Statistics</h1>
-<table>
-	<tr>
-		<td colspan = "2"><a><img src="https://github-readme-activity-graph.vercel.app/graph?username=LearningBotsOfficial&bg_color=06040e&point=false&line=bd83b8&radius=8&area=true&area_color=473e66&title_color=ffffff&color=f1916d"></a></td>
-	</tr>
-	<tr>
-		<td><a><img src="https://github-readme-streak-stats-two-beige.vercel.app?user=Raghavalways&theme=javascript-dark&background=45%2C150536%2C520352&border=f1916d&stroke=f1916d&ring=bd83b8&sideLabels=f1916d&fire=f1916d&currStreakLabel=f1916d&dates=ffffff"></a></td>
-		<td><a><img src="http://profile-summary-card.vercel.app/api/cards/profile-details?username=LearningBotsOfficial&theme=dracula"></a></td>
-	</tr>
-</table>
-<div align="center">
-	<table>
-	<tr>
-		<td><a><img src="https://github-readme-stats-rishilahotis-projects.vercel.app/api?username=LearningBotsOfficial&include_all_commits=true&theme=dracula&show_icons=true&hide_border=false&count_private=true"></a></td>
-	</tr>
-	</table>
-	</div>
- 
-<!-- ------------------------------------------------------------------------------------ -->
-
- 
-<!-- ------------------------------------------------------------------------------------ -->
-
-<!-- View count div -->
-<div align="center">
-<a>
-    <img src="https://komarev.com/ghpvc/?username=LearningBotsOfficial&style=flat-square">
-</a>
-
-</div>
-
-<br/>
-
-<h3 align="left">☕ Support Me!</h3>
-<h3 align="left"> If you enjoy my work, consider buying me a coffee to keep me fueled and coding!</h3>
-<p><a href="https://files.catbox.moe/4elv8g.jpg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/rokhisarkar" /></a></p><br><br>
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?color=D39D55&width=420&lines=Thanks+for+visiting!">
-</div>
-
-<br clear="both">
-
+---
