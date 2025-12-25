@@ -66,9 +66,7 @@
 </p>
 
 ## 🐍 GitHub Contribution Snake
-
 <p align="center">
-  <img src="https://github.com/LearningBotsOfficial/Readme-Profile-Snake/raw/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/main/output/github-contribution-grid-snake.svg" />
 </p>
-
 
