@@ -55,8 +55,18 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LearningBotsOfficial&theme=dracula&margin-w=10&margin-h=10&no-frame=true" />
+  <!-- Total PRs -->
+  <img src="https://img.shields.io/badge/PRs-✔️%20Merged-blue?style=for-the-badge&logo=github" />
+  <!-- Total Stars -->
+  <img src="https://img.shields.io/github/stars/LearningBotsOfficial?style=for-the-badge&logo=github&label=Stars" />
+  <!-- Total Forks -->
+  <img src="https://img.shields.io/github/forks/LearningBotsOfficial?style=for-the-badge&logo=github&label=Forks" />
+  <!-- Total Repos -->
+  <img src="https://img.shields.io/github/repos/LearningBotsOfficial?style=for-the-badge&logo=github&label=Repos" />
+  <!-- Contributions -->
+  <img src="https://img.shields.io/github/commit-activity/y/LearningBotsOfficial?style=for-the-badge&logo=github&label=Commits" />
 </p>
+
 
 
 ---
