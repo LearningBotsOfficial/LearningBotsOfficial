@@ -26,7 +26,7 @@
 
 ## 🛠 Languages & Tools
 <p align="center">
- <img src="https://skillicons.dev/icons?i=python,git,github,mongodb,redis,cloudflare,fastapi,flask,vscode,linux" />
+ <img src="https://skillicons.dev/icons?i=python,git,github,mongodb,cloudflare,flask,vscode,vps" />
 </p>
 
 ---
@@ -63,10 +63,5 @@
   <a href="https://github.com/LearningBotsOfficial">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
   </a>
-</p>
-
-## 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/main/output/github-contribution-grid-snake.svg" />
 </p>
 
