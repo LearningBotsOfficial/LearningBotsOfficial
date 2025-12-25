@@ -2,10 +2,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVxOHZxZG52djFmN2k0NXIxOWw2bXVtd3pvdGx1ZjdxemlsZ25kOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200" />
+        <img src="https://media.giphy.com/media/Ib8hIgpOHBxBUSD0t5/giphy.gif" width="200" />
       </td>
       <td>
-        <h1>Learning Bots</h1>
+        <h1>Yash Developer</h1>
         <h3>Telegram Bot Developer • Python • Automation</h3>
       </td>
     </tr>
@@ -52,30 +52,17 @@
 
 ---
 <div align="center">
-<table>
-<tr>
-<td>
-<img src="https://media.giphy.com/media/Ib8hIgpOHBxBUSD0t5/giphy.gif" width="200" />
-</td>
-<td style="padding-left: 20px; vertical-align: middle;">
-<p>
-<!-- First row -->
-<a href="https://t.me/learningbots79">
-<img src="https://img.shields.io/badge/Tg Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://t.me/LearningBotsCommunity">
-<img src="https://img.shields.io/badge/Tg Group-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<br>
-<!-- Second row -->
-<a href="https://t.me/NomadeHelpBot">
-<img src="https://img.shields.io/badge/GroupHelpBot-FF69B4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://t.me/winexmusicbot">
-<img src="https://img.shields.io/badge/MusicBot-32CD32?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-</p>
-</td>
-</tr>
-</table>
+  <!-- Buttons in one row -->
+  <a href="https://t.me/learningbots79">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://t.me/LearningBotsCommunity">
+    <img src="https://img.shields.io/badge/Community-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://t.me/NomadeHelpBot">
+    <img src="https://img.shields.io/badge/HelpBot-FF69B4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://t.me/winexmusicbot">
+    <img src="https://img.shields.io/badge/MusicBot-32CD32?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </div>
