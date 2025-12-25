@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://media.giphy.com/media/Ib8hIgpOHBxBUSD0t5/giphy.gif" width="200" />
+        <img src="https://media.giphy.com/media/Ib8hIgpOHBxBUSD0t5/giphy" width="200" />
       </td>
       <td>
         <h1>Yash Developer</h1>
