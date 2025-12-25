@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="200">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVxOHZxZG52djFmN2k0NXIxOWw2bXVtd3pvdGx1ZjdxemlsZ25kOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200" />
       </td>
       <td>
         <h1>Learning Bots</h1>
@@ -13,14 +13,6 @@
 </div>
 
 
-
-<!-- Center GIF -->
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="500"/>
-</p>
-
-<h1 align="center">👋 Hi, I'm Learning Bots</h1>
-<h3 align="center">Telegram Bot Developer • Python • Pyrogram • Automation</h3>
 
 ---
 
