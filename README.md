@@ -53,10 +53,11 @@
 ---
 
 ## 🏆 GitHub Achievements
-<!-- FIXED BADGES - ALWAYS WORK -->
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LearningBotsOfficial&theme=dracula&margin-w=10&margin-h=10&no-frame=true" />
 </p>
+
 
 ---
 
