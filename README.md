@@ -41,9 +41,6 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=LearningBotsOfficial&show_icons=true&theme=dracula&include_all_commits=true" />
-      </td>
-      <td>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=LearningBotsOfficial&theme=dracula" />
       </td>
     </tr>
