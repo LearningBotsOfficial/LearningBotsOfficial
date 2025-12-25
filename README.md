@@ -27,7 +27,6 @@
 ## 🛠 Languages & Tools
 <p align="center">
  <img src="https://skillicons.dev/icons?i=python,git,github,mongodb,cloudflare,vscode" />
-  <img src="https://raw.githubusercontent.com/LearningBotsOfficial/assets/main/termius.png" width="30" height="30"/>
 </p>
 
 ---
