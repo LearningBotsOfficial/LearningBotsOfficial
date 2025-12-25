@@ -4,13 +4,19 @@
       <td>
         <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200" />
       </td>
-      <td style="padding-left: 40px; text-align: center;">
-        <h1>Yash Developer</h1>
-        <h3>Telegram Bot Developer • Python • Automation</h3>
-      </td>
-    </tr>
-  </table>
+
+      <!-- Spacer Column -->
+  <td width="50"></td>
+
+  <!-- Text Column -->
+  <td align="center">
+  <h1>Yash Developer</h1>
+  <h3>Telegram Bot Developer • Python • Automation</h3>
+  </td>
+</tr>
+</table>
 </div>
+
 
 
 
