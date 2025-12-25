@@ -61,15 +61,15 @@
 <p>
 <!-- First row -->
 <a href="https://t.me/learningbots79">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Tg Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://t.me/LearningBotsCommunity">
-<img src="https://img.shields.io/badge/Community-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Tg Group-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <br>
 <!-- Second row -->
 <a href="https://t.me/NomadeHelpBot">
-<img src="https://img.shields.io/badge/HelpBot-FF69B4?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/GroupHelpBot-FF69B4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://t.me/winexmusicbot">
 <img src="https://img.shields.io/badge/MusicBot-32CD32?style=for-the-badge&logo=telegram&logoColor=white" />
