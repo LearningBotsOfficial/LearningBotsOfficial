@@ -13,18 +13,18 @@ jobs:
 
     steps:
       - name: Checkout repo content
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: LearningBotsOfficial
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/grid-snake.svg
-            dist/snake.svg
+            dist/grid-snake.svg?palette=github-dark
+            dist/grid-snake-coder.svg?color_snake=#00ff00&color_dots=#0d1117,#0e4429,#006d32,#26a641,#39d353
 
       - name: Push to output branch
-        uses: JamesIves/github-pages-deploy-action@v4.4.3
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
           folder: dist
