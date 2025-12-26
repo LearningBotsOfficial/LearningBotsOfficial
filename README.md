@@ -36,8 +36,6 @@
 
 ---
 
-## 🎮 GitHub Game (Live Animation)
-
 ![Snake Animation](https://raw.githubusercontent.com/LearningBotsOfficial/LearningBotsOfficial/output/grid-snake.svg)
  
 
