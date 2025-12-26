@@ -36,8 +36,13 @@
 
 ---
 
-## 📊 Commit History
-![Commit History](https://raw.githubusercontent.com/LearningBotsOfficial/LearningBotsOfficial/master/profile-3d-contrib/profile-night-rainbow.svg)
+## 🌟 GitHub Insights
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/LearningBotsOfficial?style=for-the-badge&label=Total%20Stars&color=blue" />
+  <img src="https://img.shields.io/github/forks/LearningBotsOfficial?style=for-the-badge&label=Total%20Forks&color=orange" />
+  <img src="https://img.shields.io/github/commit-activity/y/LearningBotsOfficial?style=for-the-badge&label=Commits%20This%20Year&color=brightgreen" />
+</p>
 
 ---
 <div align="center">
