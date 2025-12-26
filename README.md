@@ -37,7 +37,7 @@
 ---
 
 ## 📊 Commit History
-![Commit History](https://raw.githubusercontent.com/LearningBotsOfficial/LearningBotsOfficial/refs/heads/master/profile-3d-contrib/profile-night-rainbow.svg)
+![Commit History](https://raw.githubusercontent.com/LearningBotsOfficial/LearningBotsOfficial/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 <div align="center">
