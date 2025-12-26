@@ -36,24 +36,11 @@
 
 ---
 
-## 🎮 GitHub Game Zone
+## 🎮 GitHub Game (Live Animation)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LearningBotsOfficial/LearningBotsOfficial/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/LearningBotsOfficial/LearningBotsOfficial/output/snake.svg" />
 </p>
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW94MXEwaDhkdDVxZmJhbDN1Z3Z0OW9zYnBnaGl5NXZmcTJsdnp6aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ko7twHhomhk8E/giphy.gif" width="500">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LearningBotsOfficial&theme=tokyonight&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://your-skyline-gif-url-here.gif" width="700">
-</p>
-
 
 
 ---
