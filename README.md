@@ -36,21 +36,8 @@
 
 ---
 
-## 📊 GitHub Statistics
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=LearningBotsOfficial&theme=dracula" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LearningBotsOfficial&theme=dracula&area=true" />
-      </td>
-    </tr>
-  </table>
-</div>
+## 📊 Commit History
+![Commit History](https://raw.githubusercontent.com/LearningBotsOfficial/LearningBotsOfficial/refs/heads/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 <div align="center">
