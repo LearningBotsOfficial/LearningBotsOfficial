@@ -16,12 +16,13 @@
 </div>
 
 ---
-
+<div align="center">
+  
 <!-- Stats Badges -->
 [![GitHub Followers](https://img.shields.io/github/followers/LearningBotsOfficial?label=FOLLOWERS&style=for-the-badge&color=7c3aed&logo=github&logoColor=white)](https://github.com/LearningBotsOfficial?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/bisug?label=STARS&style=for-the-badge&color=06b6d4&logo=github&logoColor=white)](https://github.com/?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=LearningBotsOfficial&color=4c1d95&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/LearningBotsOfficial)
-
+</div>
 ---
 
 ## 🚀 About Me
@@ -34,7 +35,7 @@
 
 ## 🛠 Languages & Tools
 <p align="center">
- <img src="https://skillicons.dev/icons?i=python,git,github,mongodb,cloudflare,vscode" />
+ <img src="https://skillicons.dev/icons?i=python,git,github,mongodb,vscode" />
 </p>
 LearningBotsOfficial
 ---
